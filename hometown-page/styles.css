@@ -1,0 +1,142 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Stack Sans Text", sans-serif;
+}
+
+/* HERO SECTION */
+.hero-section {
+    background: url("images/cityhall.jpg");
+    height: 70vh;
+    background-size: cover;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #F1FAEE;
+}
+
+h1 {
+    background-color: #1D3557;
+    font-family: "Stack Sans Headline", sans-serif;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    background-color: #457B9D;
+    font-family: "Stack Sans Text", sans-serif;
+    padding: 5px 40px;
+    border-radius: 10px;
+    margin: 0;
+    box-shadow: 0 0 2px black;
+}
+
+/* ACTIVITIES SECTION */
+.activities-section {
+    color:  #1D3557;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 50px;
+}
+
+.activities-box {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 18px;
+}
+
+.activities-card {
+    width: 350px;
+    padding: 20px;
+    
+}
+
+.activities-card:hover {
+    border-radius: 10px;
+    background-color: #A8DADC;
+
+}
+
+.act-img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.desc {
+    font-weight: 100;
+
+}
+
+/* GUIDE SECTION */
+.guide-section {
+    color:  #1D3557;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.guide-card {
+    background-color: #A8DADC;
+    border-radius: 10px;
+    border-bottom: 8px solid #1D3557;
+    margin: 0 auto;
+    display: flex;
+    padding: 25px 15px;
+    column-gap: 10px;
+}
+
+.guide-card:hover {
+    background-color: #457B9D;
+    border-radius: 10px;
+    border-bottom: 8px solid #1D3557;
+    color:  #A8DADC;
+}
+
+.card-info {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    justify-content: center;
+}
+
+.card-info p, 
+.card-info h3, 
+.card-info h4  {
+    margin: 0;
+}
+
+.mikoy-img {
+    width: 200px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.mikoy-img:hover {
+    border-radius: 80px;
+}
+
+
