@@ -9,6 +9,7 @@ This repository serves as a record of my learning journey and showcases how my s
 ## HTML & CSS
 - [Profile Page](/profile-page)
 - [Bussiness Card](/bussiness-card)
+- [Birthday Gift Page](/birthday-gift)
 - [Hometown Page](/hometown-page)
 
 ## JAVASCRIPT
