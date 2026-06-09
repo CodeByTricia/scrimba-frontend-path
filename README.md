@@ -15,3 +15,4 @@ This repository serves as a record of my learning journey and showcases how my s
 ## JAVASCRIPT
 - [Passenger Counter](/passenger-counter)
 - [Basketball Scoreboard](/basketball-scoreboard)
+- [Blackjack Game](/blackjack-game)
