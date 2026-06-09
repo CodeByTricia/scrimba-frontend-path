@@ -1,0 +1,55 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background: linear-gradient(to top, #1B1B1E82, #1B1B1E82), url("images/blackjack-table.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    row-gap: 12px;
+    width: 60%;
+    align-items: center;
+}
+
+h1 {
+    color: #f5af00;
+    text-shadow: 0 0 2 white;
+    font-size: 50px;
+    margin: 0;
+}
+
+#message-el {
+    font-style: italic;
+    font-size: 25px;
+    margin: 0;
+}
+
+#cards-el,
+#sum-el,
+#player-el {
+    font-size: 20px;
+    margin: 0;
+}
+
+button {
+    color: white;
+    background: #f5af00;
+    font-weight: bold;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    padding: 10px;
+    margin: 0;
+    min-width: 200px;
+    max-width: 210px;
+}
