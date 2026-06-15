@@ -10,9 +10,11 @@ This repository serves as a record of my learning journey and showcases how my s
 - [Profile Page](/profile-page)
 - [Bussiness Card](/bussiness-card)
 - [Birthday Gift Page](/birthday-gift)
-- [Hometown Page](/hometown-page)
+- [Hometown Page (Solo Project)](/hometown-page)
 
 ## JAVASCRIPT
 - [Passenger Counter](/passenger-counter)
-- [Basketball Scoreboard](/basketball-scoreboard)
+- [Basketball Scoreboard (Solo Project)](/basketball-scoreboard)
 - [Blackjack Game](/blackjack-game)
+- [Password Generator (Solo Project)]/(/password-generator)
+- [Leads Tracker (Chrome Extension)](/leads-tracker)
