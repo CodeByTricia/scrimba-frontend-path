@@ -16,5 +16,6 @@ This repository serves as a record of my learning journey and showcases how my s
 - [Passenger Counter](/passenger-counter)
 - [Basketball Scoreboard (Solo Project)](/basketball-scoreboard)
 - [Blackjack Game](/blackjack-game)
-- [Password Generator (Solo Project)]/(/password-generator)
+- [Password Generator (Solo Project)](/password-generator)
 - [Leads Tracker (Chrome Extension)](/leads-tracker)
+- [Leads Tracker (Webapp with Firebase DB](/leads-tracker-firebase)
