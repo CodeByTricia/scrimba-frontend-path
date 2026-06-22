@@ -11,6 +11,7 @@ This repository serves as a record of my learning journey and showcases how my s
 - [Bussiness Card](/bussiness-card)
 - [Birthday Gift Page](/birthday-gift)
 - [Hometown Page (Solo Project)](/hometown-page)
+- [NFT Site](/nft-site)
 
 ## JAVASCRIPT
 - [Passenger Counter](/passenger-counter)
@@ -18,4 +19,5 @@ This repository serves as a record of my learning journey and showcases how my s
 - [Blackjack Game](/blackjack-game)
 - [Password Generator (Solo Project)](/password-generator)
 - [Leads Tracker (Chrome Extension)](/leads-tracker)
-- [Leads Tracker (Webapp with Firebase DB](/leads-tracker-firebase)
+- [Leads Tracker (Webapp with Firebase DB)](/leads-tracker-firebase)
+- [Annoying Cookie Consent](/annoying-cookie-consent)
