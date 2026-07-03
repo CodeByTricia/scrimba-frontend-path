@@ -4,6 +4,8 @@ This repository contains projects I've built while working through [Scrimba's "T
 
 While many of these projects are inspired by the course material, they are not exact copies. I've made a few deliberate changes to the design and features to better reflect my own ideas and growing understanding of frontend development. My goal is not only to follow along with the lessons but also to experiment, customize, and make each project my own.
 
+Unfortunately, I wasn''t able to complete the full Frontend Developer Path because my Scrimba Pro membership from the GitHub Student Developer Pack expired before I finished the course.
+
 This repository serves as a record of my learning journey and showcases how my skills have developed over time.
 
 ## HTML & CSS
